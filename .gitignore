@@ -1,0 +1,7 @@
+﻿.next/
+node_modules/
+out/
+.env*.local
+.DS_Store
+next-dev.*.log
+next-dev.pid
